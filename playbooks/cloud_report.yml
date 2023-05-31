@@ -1,6 +1,6 @@
 ---
 - name: build report with facts
-  hosts: localhost
+  hosts: ansible-1
   gather_facts: true
 
   tasks:
